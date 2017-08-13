@@ -12,7 +12,7 @@ There are 2 version for the tree ratio: 3:4:5 and 5:12:13. <br>
 Increase the tree level by left clicking and decrease it by right clicking. <br>
 
 
-Traffic_Sign_Reconize: (Matlab) <br>
+Traffic_Sign_Recognize: (Matlab) <br>
 Recognize the noised picture and find the most similar 5 image in dataset. <br>
 
 
