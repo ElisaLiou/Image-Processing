@@ -1,0 +1,21 @@
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\bin\Debug\Bezier.exe.config
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\bin\Debug\Bezier.exe
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\bin\Debug\Bezier.pdb
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\obj\Debug\Bezier.csprojResolveAssemblyReference.cache
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\obj\Debug\Bezier.exe
+c:\users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\obj\Debug\Bezier.pdb
+C:\Users\msi-1\documents\visual studio 2013\Projects\Bezier\Bezier\obj\Debug\Bezier.form1.resources
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\bin\Debug\Bezier.exe.config
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\obj\Debug\Bezier.pdb
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\obj\Debug\Bezier.csprojResolveAssemblyReference.cache
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\obj\Debug\Bezier.form1.resources
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+C:\Users\msi-1\Desktop\HOMEWORK\solution\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+C:\Users\Elisa\Desktop\Homework Solution\Bezier\Bezier\bin\Debug\Bezier.exe.config
+C:\Users\Elisa\Desktop\Homework Solution\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Users\Elisa\Desktop\Homework Solution\Bezier\Bezier\obj\Debug\Bezier.pdb
